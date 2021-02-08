@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there 👋,
+#### Design and Development
+![Design and Development](https://wallpaperaccess.com/full/1947431.jpg)
+
+A Web Developer from India. I really enjoy learning new languages and frameworks
+
+Skills: DJANGO / JAVA / C++ / PYTHON / JS / HTML / CSS
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikhilpawar&show_icons=true&theme=radical)
 
 <!--
-**nikhilpawar9/nikhilpawar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vaibhav-84/Vaibhav-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
