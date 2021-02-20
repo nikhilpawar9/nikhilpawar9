@@ -8,10 +8,10 @@ Skills: DJANGO / JAVA / C++ / PYTHON / JS / HTML / CSS
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikhilpawar&show_icons=true&theme=radical)
+![nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilpawar&show_icons=true&theme=radical)
 
 <!--
-**Vaibhav-84/Vaibhav-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
