@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="500" height="320" />
 
 ## A passionate Web and Flutter developer from India
-- ✍ You can find my projects here [portfolio] 
+- ✍ You can find my projects here [portfolio _target="blank"] 
  
 - 🔭 I’m currently working on **React Project**
 
