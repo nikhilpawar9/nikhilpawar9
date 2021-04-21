@@ -44,5 +44,3 @@
 <hr>
 
 
-<h3 align="center">Code never lies,</h3>
-<h3 align="center">comments sometimes do.</h3>
