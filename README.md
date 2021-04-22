@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" width="400" height="256" />
 
 ## A passionate Web and Flutter developer from India
 - ✍ You can find my projects here [portfolio] 
