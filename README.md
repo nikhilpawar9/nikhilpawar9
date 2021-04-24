@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
 
-## A passionate Web and Flutter developer from India
+
 - ✍ You can find my projects here [portfolio] 
  
 - 🔭 I’m currently working on **React Project**
