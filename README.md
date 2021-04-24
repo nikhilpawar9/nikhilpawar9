@@ -6,13 +6,11 @@
  
 - 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **React, AL/ML**
+- 🌱 I’m currently learning **React, AI/ML**
 
 - 👯 I’m looking to collaborate on open source
 
 - 💬 Ask me about **Django, Flutter, Firebase**
-
-- 📫 How to reach me **nikhilpawar982001@gmail.com**
 
 
 <h3 align="left">Feel free to reach me out on:</h3>
