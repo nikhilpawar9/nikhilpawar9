@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-
+# ![](https://github.com/nikhilpawar9/nikhilpawar9/blob/main/Nikhil%20Pawar%20(1).gif)
 
 - ✍ You can find my projects here [portfolio] 
  
